@@ -1,0 +1,33 @@
+Variable,Option,n,Test,Statistic,p_raw,% Enjoyable (selected),% Enjoyable (not selected),Δ (pp),p_adjusted (BH),Significant (FDR<0.05)
+purpose_visit,Active recreation,121,Chi2-Yates,2.078,0.1495,77.7,86.0,-8.3,0.4111,No
+purpose_visit,Birdwatching,99,Chi2-Yates,1.659,0.1977,85.9,78.3,7.6,0.4238,No
+purpose_visit,Creativity,44,Chi2-Yates,0.483,0.4871,86.4,80.4,5.9,0.5954,No
+purpose_visit,Education,20,Fisher,0.214,0.1354,95.0,80.3,14.7,0.4111,No
+purpose_visit,Fishing,31,Chi2-Yates,0.364,0.5463,87.1,80.7,6.4,0.6009,No
+purpose_visit,Gastronomy,45,Chi2-Yates,1.434,0.2312,88.9,79.8,9.1,0.4238,No
+purpose_visit,Gathering,6,Fisher,2.275,0.3054,66.7,82.0,-15.3,0.48,No
+purpose_visit,Passive recreation,159,Chi2-Yates,10.684,0.0011,87.4,68.1,19.3,0.0059,Yes
+purpose_visit,Professional sport,10,Fisher,0.48,0.6933,90.0,81.2,8.8,0.6933,No
+purpose_visit,Social cohesion,132,Chi2-Yates,16.716,0.0,90.9,68.8,22.2,0.0005,Yes
+purpose_visit,Spirituality,25,Fisher,1.465,0.4211,76.0,82.3,-6.3,0.579,No
+visitor_type,Couples,154,Chi2-Yates,8.243,0.0041,87.0,70.3,16.7,0.0068,Yes
+visitor_type,Families,183,Chi2-Yates,37.205,0.0,89.6,48.9,40.7,0.0,Yes
+visitor_type,Large groups,74,Chi2-Yates,11.101,0.0009,94.6,75.3,19.3,0.0022,Yes
+visitor_type,People with pets,108,Chi2-Yates,1.349,0.2454,85.2,78.3,6.9,0.2454,No
+visitor_type,Solo visitors,154,Chi2-Yates,4.585,0.0323,85.7,73.0,12.7,0.0403,Yes
+accessibility,By bike,40,Chi2-Yates,5.313,0.0212,67.5,84.6,-17.1,0.1058,No
+accessibility,By car,62,Chi2-Yates,0.544,0.4608,85.5,80.1,5.4,0.7679,No
+accessibility,By foot,144,Chi2-Yates,0.132,0.7162,82.6,79.8,2.9,0.8953,No
+accessibility,By public transport,97,Chi2-Yates,3.441,0.0636,87.6,77.1,10.5,0.159,No
+accessibility,By taxi,15,Fisher,0.665,1.0,86.7,81.2,5.4,1.0,No
+wishlist,Better street lighting,58,Chi2-Yates,1.22,0.2694,75.9,83.5,-7.7,0.726,No
+wishlist,Better transport,18,Fisher,2.417,0.1104,66.7,82.9,-16.2,0.4963,No
+wishlist,Cleaner air,44,Chi2-Yates,0.365,0.546,77.3,82.6,-5.3,1.0,No
+wishlist,Cleaner water,105,Chi2-Yates,0.949,0.33,84.8,78.9,5.9,0.726,No
+wishlist,Everything is fine,20,Fisher,0.214,0.1354,95.0,80.3,14.7,0.4963,No
+wishlist,Inclusive access,67,Chi2-Yates,0.0,1.0,82.1,81.4,0.7,1.0,No
+wishlist,Less noise,38,Chi2-Yates,0.053,0.8187,78.9,82.1,-3.2,1.0,No
+wishlist,More cooling,106,Chi2-Yates,5.792,0.0161,88.7,75.4,13.3,0.1771,No
+wishlist,More greenery,76,Chi2-Yates,0.0,1.0,81.6,81.6,0.0,1.0,No
+wishlist,More services,51,Chi2-Yates,0.0,1.0,82.4,81.4,1.0,1.0,No
+wishlist,Safer pedestrian zones,83,Chi2-Yates,0.185,0.6673,79.5,82.8,-3.2,1.0,No

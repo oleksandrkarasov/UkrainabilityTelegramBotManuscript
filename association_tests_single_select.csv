@@ -1,0 +1,8 @@
+Variable,Type,Test,Statistic,df,p-value,Trend p,Cramér's V,Significant (α=0.05)
+gender,Nominal,Chi-square,2.94,1,0.0866,—,0.115,No
+occupation,Nominal,Chi-square,7.64,4,0.1057,—,0.19,No
+noticed_changes,Nominal,Chi-square,14.36,2,0.0008,—,0.258,Yes
+age,Ordinal,Chi-square + Trend,4.82,3,0.1855,0.0322,0.147,No
+income,Ordinal,Chi-square + Trend,7.95,3,0.047,0.2092,0.224,Yes
+duration_visit,Ordinal,Chi-square + Trend,11.85,3,0.0079,0.8495,0.233,Yes
+regularity,Ordinal,Chi-square + Trend,7.6,4,0.1074,0.0956,0.185,No
