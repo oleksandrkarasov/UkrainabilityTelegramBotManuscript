@@ -1,4 +1,4 @@
-# Code for the manuscript 'Mapping quality time: Telegram as a public participatory GIS for cultural ecosystem services'.
+# Code and data for the manuscript 'Mapping quality time: Telegram as a public participatory GIS for cultural ecosystem services'.
 
 `Notebook_for_figures_and_tables.ipynb` contains the code scripts used to produce Figures 1, 5-7, and Tables 1-3, as well as Supplementary Materials.
 
