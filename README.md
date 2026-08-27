@@ -1,4 +1,4 @@
-# Code and data for the manuscript 'Mapping quality time: Telegram as a public participatory GIS for cultural ecosystem services'.
+# Code and data for the manuscript 'Mapping quality time in urban landscapes: Telegram as a participatory GIS tool for cultural ecosystem services'.
 
 `Notebook_for_figures_and_tables.ipynb` contains the code scripts used to produce Figures 1, 5-7, and Tables 1-3, as well as Supplementary Materials.
 
@@ -6,4 +6,4 @@
 
 `association_tests_multi_select.csv`, `association_tests_single_select.csv` are the outputs of the statistical analysis (Tables 1,2). 
 
-`model_comparison_report.xlsx` contains comparison of Random Forest and CatBoost modelling approaches.
+`model_comparison_report.xlsx` contains a comparison of Random Forest and CatBoost modelling approaches.
